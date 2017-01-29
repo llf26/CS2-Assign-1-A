@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1485656773 source:c:\users\larry\documents\ua classes\cs2\delete repeat\functions.cpp
+	<iostream>
+	<memory>
+	"header.hpp"
+
+1485656773 c:\users\larry\documents\ua classes\cs2\delete repeat\header.hpp
+
+1485657102 source:c:\users\larry\documents\ua classes\cs2\delete repeat\main.cpp
+	<iostream>
+	<memory>
+	"header.hpp"
+
+1485620073 c:\users\larry\documents\ua classes\cs2\delete repeat\functions.cpp
+	<iostream>
+	"header.hpp"
+
+1485630253 c:\users\larry\documents\ua classes\cs2\delete repeat\drconstants.hpp
+
